@@ -4,7 +4,7 @@ This project aims at investigating a SNN(Spiking Neural Network)-based
 UNET model for locating the mandible regions in panoramic dental images.
 UNET is known to win the ISBI challenge 
 by outperforming other teams.
-U-Net, as a kind of CNN, gets its name from its ¡°U¡± shaped architecture that is composed of   
+U-Net, as a kind of CNN, gets its name from its U shaped architecture that is composed of   
 convolutional layers and two networks.
 Spiking Neural Network(SNN) simulates human brain activity. 
 In previous works, there have been much research on
